@@ -8,10 +8,12 @@ I'm Jonah, a recent computer science graduate from UCLA interested in civic tech
 
 ### Current projects
 🚲 I'm working on a study of how multimodal usage of bikeshare can help give more people access to opportunity, based on a case study in Detroit. I also presented work related to this at the Transportation Research Board Annual Meeting! (repo currently on private, will be public soon!)
+
 🥼 I contribute to the [Data Browser](https://github.com/DataBiosphere/data-browser) at Clever Canary, a configurable web based to give researchers access to scientific data~
 
 ### Past Projects
 :turtle: I was the project manager for [Pen Pals](https://github.com/uclaacm/pen-pals), an educational website to teach middle and elementary school students Python! I worked on this with a team of students in UCLA's ACM TeachLA
+
 🅿️ I contributed to [ParkSmart](https://github.com/jpaten/parksmart) as part of my UCLA Capstone project, a proof of concept website to create more efficient parking markets!
 
 <!--
