@@ -2,7 +2,7 @@
 I'm Jonah, a recent computer science graduate from UCLA interested in civic tech and transportation research 🏙️ 🚌 🚄 🚠 
 
 ### Right now
-🚦I'm a Student Professional Worker at the [Los Angeles Department of Transportation](https://ladot.lacity.gov/) working on data science projects for the Advanced Transportation Systems and Research section (ATSAR)
+🚌 I'm a Data Fellow at the [Shared Use Mobility Center](https://sharedusemobilitycenter.org) working on data science projects for the FTA and the UCLA Mobility Center of Excellence
 
 🧬 I also contribute to projects helping bioinformatics researchers as a full stack software engineering intern at [CleverCanary](https://www.clevercanary.com/)!  
 
